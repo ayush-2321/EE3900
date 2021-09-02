@@ -140,10 +140,10 @@ Find the co ordinates of the points which divides the joining of two points $\be
 
 Let $\vec{A}$ be the point which divides the join in the ration 3:2 externally and $\vec{B}$ be the point dividing the join in the ratio 2:3 externally
 \begin{align}
-\vec{A}= \frac{3\begin{pmatrix} -4 \\ 5  \end{pmatrix}-2\begin{pmatrix} 2 \\ 3 \end{pmatrix}}{1}\\
-\vec{A}=\begin{pmatrix} -18 \\ 9 \end{pmatrix}\\
-\vec{B}=\frac{2\begin{pmatrix} -4 \\ 5  \end{pmatrix}-3\begin{pmatrix} 2 \\ 3 \end{pmatrix}}{-1}\\
-\vec{B}=\begin{pmatrix} 14 \\ -1 \end{pmatrix}
+\vec{A} &= \frac{3\begin{pmatrix} -4 \\ 5  \end{pmatrix}-2\begin{pmatrix} 2 \\ 3 \end{pmatrix}}{1}\\
+\vec{A} &=\begin{pmatrix} -18 \\ 9 \end{pmatrix}\\
+\vec{B} &=\frac{2\begin{pmatrix} -4 \\ 5  \end{pmatrix}-3\begin{pmatrix} 2 \\ 3 \end{pmatrix}}{-1}\\
+\vec{B} &=\begin{pmatrix} 14 \\ -1 \end{pmatrix}
 \end{align}
 
 \begin{figure}[!ht]
@@ -152,6 +152,4 @@ Let $\vec{A}$ be the point which divides the join in the ration 3:2 externally a
     \caption{Plot of the points}
     \label{plot}
     \end{figure}
-\end{document}
-
 \end{document}
