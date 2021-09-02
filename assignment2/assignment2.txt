@@ -135,14 +135,14 @@ and latex-tikz codes from
 https://github.com/ayush-2321/EE3900/new/main
 \end{lstlisting}
 \section*{  Matrix 2.41}
-If A= $\begin{pmatrix} 1 & 2 & 3 \\  2 & 3 & 1\end{pmatrix}$ and B=$\begin{pmatrix} 3 & -1 & 3 \\  -1 & 0 & 2\end{pmatrix}$, then find \\ 2A-B
+If $\vec{A}$= $\begin{pmatrix} 1 & 2 & 3 \\  2 & 3 & 1\end{pmatrix}$ and $\vec{B}$=$\begin{pmatrix} 3 & -1 & 3 \\  -1 & 0 & 2\end{pmatrix}$, then find \\ $2\vec{A}-]\vec{B}$
 
 
 \section{solution}
 
 
 \begin{align}
-2A-B=\begin{pmatrix} -1 & 5 & 3 \\  5 & 6 & 0\end{pmatrix}
+2\vec{A}-\vec{B}=\begin{pmatrix} -1 & 5 & 3 \\  5 & 6 & 0\end{pmatrix}
 \end{align}
 
 
