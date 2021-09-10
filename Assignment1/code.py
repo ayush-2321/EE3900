@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Aug 27 01:06:11 2021
-
 @author: singh
 """
 
@@ -20,13 +19,13 @@ B=B.reshape(2,1)
 A1=3*B-2*A
 A2=3*A-2*B
 plt.plot(A[0],A[1],'o')
-plt.text(A[0],A[1]*1.05,"A")
+plt.text(A[0],A[1]*1.08,"A")
 plt.plot(B[0],B[1],'o')
 plt.text(B[0],B[1]*1.05,"B")
 plt.plot(A1[0],A1[1],'o')
-plt.text(A1[0],A1[1]*1.05,'A1')
+plt.text(A1[0],A1[1]*1.05,'$A_{1}$')
 plt.plot(A2[0],A2[1],'o')
-plt.text(A2[0],A2[1]*1.05,'A2')
+plt.text(A2[0]*1.05,A2[1]*1.08,'$A_{2}$')
 plt.grid()
 plt.axis([-20,20,-5,15])
 plt.plot(X,Y)
