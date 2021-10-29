@@ -19,9 +19,9 @@ B=B.reshape(2,1)
 A1=3*B-2*A
 A2=3*A-2*B
 plt.plot(A[0],A[1],'o')
-plt.text(A[0],A[1]*1.08,"A")
+plt.text(A[0],A[1]*1.15,"A")
 plt.plot(B[0],B[1],'o')
-plt.text(B[0],B[1]*1.05,"B")
+plt.text(B[0],B[1]*1.15,"B")
 plt.plot(A1[0],A1[1],'o')
 plt.text(A1[0],A1[1]*1.05,'$A_{1}$')
 plt.plot(A2[0],A2[1],'o')
